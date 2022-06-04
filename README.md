@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&customColorList=17)
-<div>
+<div align="center">
   <h1> 매일 성장하는 FE 개발자, 박해인입니다. </h1>
   <a href="https://www.notion.so/haeinpark/FE-3c9e87d32e154517a6f675390796920f" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-4CB050?style=flat&logo=Gumtree&logoColor=white"/></a>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaiyinde&count_bg=%234CB050&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
