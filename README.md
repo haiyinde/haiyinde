@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&customColorList=17)
-<div align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaiyinde&count_bg=%234CB050&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<div>
   <h1> 매일 성장하는 FE 개발자, 박해인입니다. </h1>
-  <strong>↓Check out my portfolio↓</strong><br/>
-  <a href="https://www.notion.so/haeinpark/FE-3c9e87d32e154517a6f675390796920f" target="_blank"><img  alt="Portfolio" src="https://img.shields.io/badge/portfolio-4CB050?style=for-the-badge&logo=Gumtree&logoColor=white"/></a>
+  <a href="https://www.notion.so/haeinpark/FE-3c9e87d32e154517a6f675390796920f" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-4CB050?style=flat&logo=Gumtree&logoColor=white"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaiyinde&count_bg=%234CB050&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
   <strong>Tech Stacks</strong><br/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
